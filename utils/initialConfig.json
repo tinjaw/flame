@@ -63,6 +63,14 @@
     {
       "key": "defaultSearchProvider",
       "value": "d"
+    },
+    {
+      "key": "dockerApps",
+      "value": false
+    },
+    {
+      "key": "unpinStoppedApps",
+      "value": false
     }
   ]
 }
